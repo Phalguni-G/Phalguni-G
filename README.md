@@ -4,7 +4,7 @@ A **data-engineer-in-the-making** who loves big dreams, clean code, and a little
 ### ✨ A Bit About Me
 - 🚴‍♀️ I cycle, swim, and explore new places — **adventure is my reset button**  
 - 🎶 Music is my therapy (**yes, I’m trying to become a damn good singer**)  
-- 💫 Curious, ambitious, and delightfully dramatic — always learning  
+- 💫 I’m curious, ambitious, dramatic in the cutest way, and always learning
 - 🌱 Manifesting: **healed skin, a fit body, good people, and meaningful work**
   
 ### 🎯 Aspirations
