@@ -1,16 +1,22 @@
-## Hi there 👋
+<!-- README.md for Phalguni G. -->
+### Hi, I’m Phalguni 👋💙
 
-<!--
-**Phalguni-G/Phalguni-G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A **data-engineer-in-the-making** who loves big dreams, clean code, and a little chaos in the process ⚡💻
 
-Here are some ideas to get you started:
+#### ✨ A Bit About Me
+- 🚴‍♀️ I cycle, swim, and explore new places — **adventure is my reset button**  
+- 🎶 Music is my therapy (working on becoming a **better singer**)  
+- 💫 Curious, ambitious, and delightfully dramatic — always learning  
+- 🌱 Manifesting: **healed skin, a fit body, good people, and meaningful work**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🎯 Aspirations
+- 🧩 Become a skilled **Data Engineer** contributing to large-scale systems  
+- 🤝 Build solutions that **empower teams & reduce complexity**  
+- 🧭 Lead projects and products end-to-end
+- 📈 Building systems that **work, scale, and simplify life**
+
+#### 📫 Connect
+- GitHub: [Phalguni-G](https://github.com/Phalguni-G)  
+- Instagram: [@iamphalgunii](https://www.instagram.com/iamphalgunii/)
+  
+💡 I believe in continuous learning, clean design, and solving problems with clarity.
