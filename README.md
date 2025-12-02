@@ -1,4 +1,3 @@
-<!-- README.md for Phalguni G. -->
 ### Hi, I’m Phalguni 👋💙
 
 A **data-engineer-in-the-making** who loves big dreams, clean code, and a little chaos in the process ⚡💻
@@ -14,9 +13,5 @@ A **data-engineer-in-the-making** who loves big dreams, clean code, and a little
 - 🤝 Build solutions that **empower teams & reduce complexity**  
 - 🧭 Lead projects and products end-to-end
 - 📈 Building systems that **work, scale, and simplify life**
-
-#### 📫 Connect
-- GitHub: [Phalguni-G](https://github.com/Phalguni-G)  
-- Instagram: [@iamphalgunii](https://www.instagram.com/iamphalgunii/)
   
 💡 I believe in continuous learning, clean design, and solving problems with clarity.
